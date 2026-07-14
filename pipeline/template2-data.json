@@ -1,0 +1,97 @@
+{
+  "destination": "香港快闪 (Template 2 test — placeholder photos)",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": "https://images.pexels.com/photos/37921193/pexels-photo-37921193.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "titleWhite": "原来香港快闪真的不用请假",
+      "titleGold": "周五下班飞，两天一夜就很好玩",
+      "subtitle": "这条路线我们直接照抄就好"
+    },
+    {
+      "type": "thesis",
+      "photo": "https://images.pexels.com/photos/16292000/pexels-photo-16292000.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "title": "先讲结论 ➡️ 香港超适合快闪 ✈️",
+      "lead": "#很多人以为香港玩三天太短",
+      "body": [
+        "但其实香港最好玩的地方就是不用一直移动！！！",
+        "景点集中、交通方便、机场到市区又快，很多地方走路就能串起来",
+        "甚至周五下班飞，周日晚回来都没问题 ✨（我们手刀出发 😂）"
+      ]
+    },
+    {
+      "type": "segment",
+      "tag": "DAY1",
+      "photo": "https://images.pexels.com/photos/35511843/pexels-photo-35511843.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "title": "尖沙咀直接开始逛 🛍️",
+      "lead": "#抵达后建议直接住尖沙咀附近",
+      "body": [
+        "因为交通方便、美食超多、夜景就在旁边 💫",
+        "顺路逛 K11 MUSEA，像艺术馆＋选物空间，超好拍 📷",
+        "接着散步到海港城，精品、潮牌、美妆都有（我们超爱 😍）"
+      ]
+    },
+    {
+      "type": "segment",
+      "tag": "DAY1",
+      "photo": "https://images.pexels.com/photos/130350/pexels-photo-130350.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "title": "维港夜景留给晚上 🌃",
+      "lead": "#逛完直接往海滨长廊走",
+      "body": [
+        "很多人来香港最难忘的就是这里 —— 吹海风、看对岸灯光亮起，真的很有香港感 ✨",
+        "时间够的话，从尖沙咀搭天星小轮往中环方向 ⛴️",
+        "香港岛（中环侧）的天际线才是最经典的夜景，视觉冲击最强 💥"
+      ]
+    },
+    {
+      "type": "segment",
+      "tag": "DAY2",
+      "photo": "https://images.pexels.com/photos/6677222/pexels-photo-6677222.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "title": "香港人流行逛这里 ☕",
+      "lead": "#不要再只有旺角了！！！",
+      "body": [
+        "近年很多年轻人会去中环、上环 💗 这区超多咖啡厅、选物店、老街拍照点",
+        "推荐路线：荷李活道 ➡️ PMQ元创方 ➡️ 大馆，慢慢走超舒服 ✨",
+        "⚠️ 但！这区斜坡＆阶梯很多，很吃腿力，记得穿最好走的鞋 👟"
+      ]
+    },
+    {
+      "type": "segment",
+      "photo": "https://images.pexels.com/photos/30608241/pexels-photo-30608241.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "title": "PMQ元创方真的很好逛 🧡",
+      "lead": "#喜欢文创设计手作品牌一定要来",
+      "body": [
+        "这里以前是警察宿舍，现在变成香港设计品牌聚落 🎨",
+        "很多东西大马、台湾看不到，而且很好买 🤣"
+      ]
+    },
+    {
+      "type": "segment",
+      "photo": "https://images.pexels.com/photos/36268895/pexels-photo-36268895.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "title": "下午直接去西九文化区 🎆",
+      "lead": "#这几年香港最舒服的地方之一 ✨",
+      "body": [
+        "📍 西九文化区 —— 草地很大、海景超美、人不会太挤，还能直接看维港 👀",
+        "推荐 M+、香港故宫文化博物馆，就算不进馆，户外散步也很舒服 🍃"
+      ]
+    },
+    {
+      "type": "recap",
+      "photo": "https://images.pexels.com/photos/37921193/pexels-photo-37921193.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "title": "香港快闪照抄行程 🗺️",
+      "day1": ["机场", "K11 MUSEA", "海港城", "维港夜景", "天星小轮"],
+      "day2": ["中环", "PMQ元创方", "大馆", "上环咖啡厅", "西九文化区", "机场返程"],
+      "tip": "💡 DAY2退房后把行李寄九龙站置物柜，或用市区预办登机，两手空空逛西九，逛完原地搭机场快线，非常完美！"
+    },
+    {
+      "type": "closing",
+      "photo": "https://images.pexels.com/photos/16292000/pexels-photo-16292000.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "title": "香港有趣的不是景点多 !?",
+      "body": [
+        "而是两天就能玩得很完整 😮‍💨 不用特地排长假、不用一直拉行李，一个周末就能换个城市生活两天 ✨",
+        "先收藏这篇 📌 下次看到便宜机票，直接拿出来照抄就好 💯"
+      ],
+      "cta": "留言告诉我 👇 如果下班直接飞香港，你第一站想吃什么？（我们肯定先冲蛋挞 😋）"
+    }
+  ]
+}
